@@ -8,3 +8,10 @@ body{
     url("../images/black wallpaper.jpg");
     background-size: cover;
 }
+
+.intro{
+    color: whitesmoke;
+    padding: 10% 10%;
+    text-align: justify;
+    font-weight: 100;
+}
