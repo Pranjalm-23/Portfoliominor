@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+}
+
+.Home{
+    height: 100vh;
+    background: linear-gradient(rgb(0,0,0,0.1), rgba(0,0,0,0.8)),
+    url("../images/black wallpaper.jpg");
+    background-size: cover;
+}
